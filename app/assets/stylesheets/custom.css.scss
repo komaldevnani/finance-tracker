@@ -5,9 +5,14 @@
 }
 .results-block {
   display: inline-block;
+  margin-bottom: 1rem;
 }
 .no-right-padding {
   padding-right: 0 !important;
+}
+
+.logout-btn {
+  margin-right: 5px;
 }
 
 .no-left-padding {
