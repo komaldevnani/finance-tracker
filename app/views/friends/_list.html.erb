@@ -1,0 +1,11 @@
+<div class="search-area">
+  <ul class="list-group">
+    <%@friends.each do |friend| %>
+      <li class="list-group-item d-flex justify-content-between col-8">
+        <%= link_to friend.full_name, user_path(friend)%>
+        <span> <%= link_to 'unfollow', friendship_path(friend), method: :delete,
+                           data: {confirm: 'Are you sure?'},  class: "btn btn-light" %> </span>
+      </li>
+    <% end %>
+  </ul>
+</div>
