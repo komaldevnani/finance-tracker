@@ -12,8 +12,11 @@ This is the finance tracker app from the Complete Ruby on Rails Developer course
 ## Other technologies used
     
    Bootstrap 4
+   
    yarn 1.22.4
+   
    jquery 3.4.1
+   
    popper.js 1.16.0
 
 
@@ -21,4 +24,8 @@ This is the finance tracker app from the Complete Ruby on Rails Developer course
    
    Inside the project directory
    Run command ```bundle install --without production``` 
-   Run command ```rails s```  inside the project directory on your PC and then navigate to ```localhost:3000``` in your           browser.
+
+   For database
+    ```rails db:setup```
+
+   Run command ```rails s```   and then navigate to ```localhost:3000``` in your           browser.
