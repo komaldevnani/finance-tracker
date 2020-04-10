@@ -2,24 +2,30 @@
 
 This is the finance tracker app from the Complete Ruby on Rails Developer course.
 
-#TODO
 
 * Ruby version
+    ruby 2.6.3
 
-* System dependencies
-
-* Configuration
-
-* Database creation
+* Rails version
+    rails 6.0.2.2
     
-    Stock and user table, where a user can have multiple stocks and a stock can be tracked by multiple users.
-    Many to many association.
-* Database initialization
+## Other technologies used
+    
+   Bootstrap 4
+   
+   yarn 1.22.4
+   
+   jquery 3.4.1
+   
+   popper.js 1.16.0
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-     iex api
-* Deployment instructions
+* How to run 
+   
+   Inside the project directory
+   Run command ```bundle install --without production``` 
 
-* ...
+   For database
+    ```rails db:setup```
+
+   Run command ```rails s```   and then navigate to ```localhost:3000``` in your           browser.
