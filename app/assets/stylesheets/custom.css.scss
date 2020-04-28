@@ -22,4 +22,17 @@
 .user-name {
   margin-top: 3.5%;
   padding-right: 5px;
+  color: #BBBBBB;
+}
+
+.jumbotron {
+  background-image: asset-url("money1.jpg");
+  background-size: cover;
+  background-position: center;
+  padding-right: 0 !important;
+  width: 990px;
+  height: 620px;
+  h2 {
+    font-size: 35px !important;
+  }
 }
