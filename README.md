@@ -1,4 +1,4 @@
-# README
+# Finance Tracker
 
 Find and track stock rates. Also one can see stocks tracked by their friends.
 
