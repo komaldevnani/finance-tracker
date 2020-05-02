@@ -1,24 +1,12 @@
-# README
+# Finance Tracker
 
-This is the finance tracker app from the Complete Ruby on Rails Developer course.
-
+Find and track stock rates. Also one can see stocks tracked by their friends
 
 * Ruby version
     ruby 2.6.3
 
 * Rails version
     rails 6.0.2.2
-    
-## Other technologies used
-    
-   Bootstrap 4
-   
-   yarn 1.22.4
-   
-   jquery 3.4.1
-   
-   popper.js 1.16.0
-
 
 * How to run 
    
@@ -29,3 +17,10 @@ This is the finance tracker app from the Complete Ruby on Rails Developer course
     ```rails db:setup```
 
    Run command ```rails s```   and then navigate to ```localhost:3000``` in your           browser.
+
+### Features
+
+* Search stocks
+* Follow friends and see stocks tracked by them
+* Add stocks to your profile to keep track
+
