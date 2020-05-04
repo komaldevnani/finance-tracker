@@ -59,4 +59,8 @@ Search user
 
 Show users portfolio
 
+<<<<<<< HEAD
 ![show user]()
+=======
+![show user]()
+>>>>>>> dbbaf74bcaf47e433776a48f6a5b05289e29c57e
