@@ -44,19 +44,19 @@ Search stock rates of companies and add them to your portfolio to keep track. Al
 
 My portfolio
 
-![My portfolio]()
+![My portfolio](https://github.com/komaldevnani/finance-tracker/blob/master/screenshots/Screenshot%20from%202020-05-04%2023-58-41.png?raw=true)
 
 
 Search stock
 
-![search stock]()
+![search stock](https://github.com/komaldevnani/finance-tracker/blob/master/screenshots/Screenshot%20from%202020-05-05%2000-03-30.png?raw=true)
 
 
 Search user
 
-![friend page]()
+![friend page](https://github.com/komaldevnani/finance-tracker/blob/master/screenshots/Screenshot%20from%202020-05-05%2000-00-25.png?raw=true)
 
 
 Show users portfolio
 
-![show user]()
+![show user](https://github.com/komaldevnani/finance-tracker/blob/master/screenshots/Screenshot%20from%202020-05-04%2023-59-49.png?raw=true)
